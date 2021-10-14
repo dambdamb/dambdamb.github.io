@@ -25,7 +25,7 @@ url                      : "https://dambdamb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "dambdamb/dambdamb.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/damyi.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/damyi.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "설담이"
-  avatar           : "/assets/images/damb.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/damb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "열심히 살아가는 대한민국의 평범한 학생."
   location         : "대한민국, 경기"
   email            : "21-20509@hafs.hs.kr"
