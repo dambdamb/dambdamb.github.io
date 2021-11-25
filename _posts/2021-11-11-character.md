@@ -13,7 +13,7 @@ layout: single
 ### @ 노진구
 ![노진구][진구]
 [진구]:
-https://ww.namu.la/s/d9d3d1b308a4b2265778a2315ed69289686cdd7969f07573d393313c18a0a10633dc64cf4c614059317107df9dafc29141288c883b5bd177c947fb123b73bd7a3b8937af0a79a3b3938aaaf2e957f841
+https://github.com/dambdamb/dambdamb.github.io/blob/master/assets/image/%EB%8F%84%EB%9D%BC%EC%97%90%EB%AA%BD.png
 공부는 못해도 마음씨는 나름 착한 주인공이다. 
 
 ---
